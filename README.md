@@ -79,4 +79,137 @@ hospital_management system.py
 
 🏥 Patient Registration → 📂 Data Storage → 🩺 Record Management → 📊 Report Generation → 💻 Display Output
 
+📌 Sample Input & Output
+
+▶️ Main Menu
+
+===== HOSPITAL MANAGEMENT SYSTEM =====
+1. Add Patient
+2. View Patients
+3. Search Patient
+4. Remove Patient
+5. Exit
+
+➕ 1. Add Patient
+
+📥 Input
+
+Enter your choice: 1
+Enter patient name: John
+Enter patient age: 45
+Enter disease: Fever
+📤 Output
+
+Patient added successfully!
+➕ Add Another Patient
+📥 Input
+
+Enter your choice: 1
+
+Enter patient name: Anita
+
+Enter patient age: 30
+
+Enter disease: Diabetes
+
+📤 Output
+
+Patient added successfully!
+
+👀 2. View Patients
+
+📥 Input
+
+Enter your choice: 2
+
+📤 Output
+
+Patient Records:
+
+Patient 1
+
+Name    : John
+
+Age     : 45
+
+Disease : Fever
+
+Patient 2
+
+Name    : Anita
+
+Age     : 30
+
+Disease : Diabetes
+
+🔍 3. Search Patient (Found)
+
+📥 Input
+
+Enter your choice: 3
+
+Enter patient name to search: John
+
+📤 Output
+
+Patient Found
+
+Name    : John
+
+Age     : 45
+
+Disease : Fever
+
+🔍 3. Search Patient (Not Found)
+
+📥 Input
+
+Enter your choice: 3
+
+Enter patient name to search: Riya
+
+📤 Output
+
+Patient not found.
+
+🗑️ 4. Remove Patient
+
+📥 Input
+
+Enter your choice: 4
+
+Enter patient name to remove: Anita
+
+📤 Output
+
+Patient removed successfully!
+
+👀 View After Removal
+
+📥 Input
+
+Enter your choice: 2
+
+📤 Output
+
+Patient Records:
+
+Patient 1
+
+Name    : John
+
+Age     : 45
+
+Disease : Fever
+
+🚪 5. Exit
+
+📥 Input
+
+Enter your choice: 5
+
+📤 Output
+
+Exiting Hospital Management System...
+
 
