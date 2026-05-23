@@ -1,2 +1,2 @@
 # Hospital-Management-System
-A simple Hospital Management System project using python
+Python project for managing hospital records and patients details
