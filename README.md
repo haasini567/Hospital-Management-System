@@ -211,5 +211,3 @@ Enter your choice: 5
 📤 Output
 
 Exiting Hospital Management System...
-
-
