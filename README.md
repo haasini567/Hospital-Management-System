@@ -36,6 +36,7 @@ This project aims to solve this problem by creating a Python-based Hospital Mana
 💻 User-Friendly Interface.
 
 ⚙️ How It Works
+
 1)User enters patient and doctor details.
 
 2)The system stores hospital records digitally.
@@ -59,13 +60,23 @@ This project aims to solve this problem by creating a Python-based Hospital Mana
 💻 Command-Line Interface – Used for user interaction.
 
 🌐 GitHub – Used for project hosting and version control.
+▶️ How To Run
+
+1)Clone the repository:
+
+git clone
+https://github.com/haasini567/hospital-management-system
+
+2)Open the project folder:
+
+cd hospital-management-system
+
+Run the program:
+
+hospital_management system.py
 
 📱 System Design
 
 🏥 Patient Registration → 📂 Data Storage → 🩺 Record Management → 📊 Report Generation → 💻 Display Output
 
-💻 Code
 
-Run the program:
-
-python hospital_management.py
