@@ -60,6 +60,7 @@ This project aims to solve this problem by creating a Python-based Hospital Mana
 💻 Command-Line Interface – Used for user interaction.
 
 🌐 GitHub – Used for project hosting and version control.
+
 ▶️ How To Run
 
 1)Clone the repository:
