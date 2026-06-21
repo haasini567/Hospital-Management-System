@@ -75,6 +75,9 @@ cd hospital-management-system
 Run the program:
 
 hospital_management system.py
+## Project Report
+
+[Download Project Report](DOC-Hospital%20management%20system_compressed.pdf)
 
 📱 System Design
 
