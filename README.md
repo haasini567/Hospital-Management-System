@@ -75,9 +75,6 @@ cd hospital-management-system
 Run the program:
 
 hospital_management system.py
-## Project Report
-
-Hospital_Report.pdf
 
 📱 System Design
 
